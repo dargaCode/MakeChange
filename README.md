@@ -1,5 +1,4 @@
-# Make Change
-<strong>C<br>
+# Make Change (C)
 
 Count the number of coins required to make change totaling a given amount
 
