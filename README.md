@@ -1,4 +1,5 @@
-# Make Change (C)
+# Make Change
+<strong>Language: C</strong>
 
 Count the number of coins required to make change totaling a given amount
 
